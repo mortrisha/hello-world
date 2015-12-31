@@ -1,4 +1,4 @@
-# hello-world
+# hello-github
 
 To start with github
 The time-honored tradition
